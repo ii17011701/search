@@ -24,9 +24,9 @@
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
+    "name": "priya",
     "username": "Antonette",
-    "email": "Shanna@melissa.tv",
+    "email": "8951248434",
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
