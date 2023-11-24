@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
+    "name": "vivek",
     "username": "Bret",
-    "email": "Sincere@april.biz",
+    "email": "6361929442",
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
